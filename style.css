@@ -1,0 +1,164 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'montserrat';
+    /*color: #e25ba6;*/
+
+}
+body{
+   background-color: rgba(248, 250, 249, 0.678);
+}
+
+label.logo{
+    color: rgb(231, 57, 71);
+    font-size: 20px;
+    padding: 30px 30px;
+    text-align: 10px;
+    font-weight: 100;
+    margin-left: 20px;
+    font-weight: 900;
+
+}
+nav ul{
+    background-color:aquamarine;
+    overflow: auto;
+    border-radius: 20px;
+}
+nav ul li{
+    float: left;
+    list-style: none;
+    padding: 10px 49px;
+
+}
+nav ul li a{
+    padding: 0px 0px;
+    text-decoration: none;
+    color: black;
+
+}
+.main-content{
+    padding: 15px 4%;
+    font-size: 12px;
+
+}
+.main-content img{
+    background: transparent;
+}
+.about{
+    padding: 15px 4%;
+    text-align: center;
+    font-size: medium;
+    font-style: italic;
+    background-color: rgb(240, 168, 75);
+
+}
+.about nav h2{
+    font-size: 28px;
+    color: black;
+
+}
+.about nav p{
+    text-align: justify;
+    text-shadow: 1px;
+    margin-left: 10px;
+}
+#detail{
+    margin-top: 10px;
+    margin-left: 10px;
+    text-shadow: 10px;
+    justify-content: center;
+    text-align: center;
+    color: blue;
+}
+.course{
+    padding: 15px 4%;
+    text-align: center;
+    font-size: medium;
+    font-style: italic;
+    background-color: rgb(240, 168, 75);
+    margin-top: 20px;
+
+}
+.course nav h2{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 28px;
+}
+.course nav p{
+    overflow: auto;
+    justify-content: center;
+
+}
+.course nav ul{
+    border-radius: 0px;
+    overflow: auto;
+    background-color: burlywood;
+
+}
+.course nav ul li{
+    padding: 15px 100px;
+    list-style: none;
+    font-size: 22px;
+    
+}
+.vision h1{
+    text-align: center;
+    text-transform: capitalize;
+    margin-top: 10%;
+    font-size: 33px;
+    color: brown;
+}
+.vision p{
+    justify-content: center;
+    text-align: center;
+    font-size: 18px;
+}
+.mission h1{
+    font-size: 33px;
+    justify-content: center;
+    text-align: center;
+    text-transform: capitalize;
+    margin-top: 10%;
+    color: brown;
+}
+.mission p{
+    justify-content: center;
+    text-align: center;
+    font-size: 18px;
+    margin-top: 5%;
+}
+.history h1{
+    font-size: 33px;
+    text-align: center;
+    justify-content: center;
+    margin-top: 9%;
+    text-transform: capitalize;
+    color: brown;
+}
+.history p{
+    justify-content: center;
+    margin-top: 4%;
+    font-size: 18px;
+    text-align: center;
+    
+}
+/*.program{
+    width: 100%;
+    height: 100vh;
+}*/
+.program h1{
+    font-size: 50px;
+    align-items: center;
+    text-align: center;
+    text-transform: capitalize;
+    margin-top: 3%;
+    color: brown;
+
+}
+.program p{
+    font-size: 20px;
+    margin-top: 4%;
+    margin-left: 20px;
+}
+
